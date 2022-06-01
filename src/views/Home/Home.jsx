@@ -14,10 +14,10 @@ function Home() {
             <div className="Links">
                 <ul>
                     <li>
-                        <a href="https://github.com/qualose123">GITHUB</a>
+                        <a href="https://github.com/poncianodev">Github</a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/raphael-johny-93a331213/">
+                        <a href="https://www.linkedin.com/in/lucas-ponciano/">
                             LinkedIn
                         </a>
                     </li>
